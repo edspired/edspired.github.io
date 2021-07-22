@@ -19,7 +19,7 @@ const FooterNav = ({
     >
       <ul className="list-reset">
         <li>
-          <a href='mailto:asq@edspired'>Contact</a>
+          <a href='mailto:recruitment@edspired.ml'>Careers</a>
         </li>
         <li>
           <Link to="#0">About us</Link>
