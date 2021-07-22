@@ -57,7 +57,7 @@ const Hero = ({
       {...props}
       className={outerClasses}
     >
-      <div className="container-sm">
+	  {/*      <div className="container-sm">
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
@@ -101,7 +101,7 @@ const Hero = ({
             video="https://player.vimeo.com/video/174002812"
             videoTag="iframe" />
         </div>
-      </div>
+      </div>*/}
     </section>
   );
 }
